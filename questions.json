@@ -1,0 +1,288 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which is the correct change from continuous to perfect in the past tense?",
+        "options": [
+            "Was singing → Had sang",
+            "Was singing → Had sung",
+            "Was singing → Have sung",
+            "Was singing → Had singing"
+        ],
+        "correct": 1,
+        "explanation": "To change from past continuous to past perfect, we change 'was' to 'had' and use the past participle of the verb (sung)."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Change the sentence from past continuous to past perfect:<br> She was writing her essay all morning.",
+        "options": [
+            "She has written her essay all morning.",
+            "She had written her essay all morning.",
+            "She writes her essay all morning.",
+            "She had been writing her essay all morning."
+        ],
+        "correct": 1,
+        "explanation": "To change from past continuous to past perfect, use 'had' + past participle. 'She was writing' changes to 'She had written,' indicating the action was completed before another past event."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which is the correct change from perfect to continuous in the present tense?",
+        "options": [
+            "Has eaten → Is eating",
+            "Has eaten → Was eating",
+            "Has eaten → Will be eating",
+            "Has eaten → Is ate"
+        ],
+        "correct": 0,
+        "explanation": "To change from present perfect to present continuous, we change 'has' to 'is' and use the '-ing' form of the verb."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "When changing from past perfect to past continuous, we always use 'was' as the helping verb. ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "We use 'was' for singular subjects and 'were' for plural subjects."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Change the sentence from present continuous to present perfect:<br>  He is eating his lunch right now.",
+        "options": [
+            "He has eaten his lunch.",
+            "He was eating his lunch.",
+            "He had eaten his lunch.",
+            "He has been eating his lunch."
+        ],
+        "correct": 0,
+        "explanation": "The present perfect tense is formed with 'have/has' + past participle. 'He is eating' changes to 'He has eaten,' indicating a completed action that affects the present."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which is the correct change from continuous to perfect continuous in the future tense?",
+        "options": [
+            "Will be running → Will have been running",
+            "Will be running → Had been running",
+            "Will be running → Has been running",
+            "Will be running → Will have run"
+        ],
+        "correct": 0,
+        "explanation": "To change from future continuous to future perfect continuous, we change 'will be' to 'will have been.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "In the sentence 'She is singing,' to change it to present perfect continuous, it becomes 'She has been singing.'",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "To change from present continuous to present perfect continuous, we change 'is' to 'has been.'"
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Change the sentence from future continuous to future perfect: <br> They will be practicing for the show tomorrow.",
+        "options": [
+            "They will have been practicing for the show tomorrow.",
+            "They have been practicing for the show tomorrow.",
+            "They will practice for the show tomorrow.",
+            "They will have practiced for the show tomorrow."
+        ],
+        "correct": 3,
+        "explanation": "The future perfect tense is formed with 'will have' + past participle. 'They will be practicing' changes to 'They will have practiced,' showing that the action will be completed by a certain time in the future."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which is the correct change from continuous to perfect in the present tense?",
+        "options": [
+            "Am writing → Have/Has written",
+            "Am writing → Had written",
+            "Am writing → Was written",
+            "Am writing → Have write"
+        ],
+        "correct": 0,
+        "explanation": "To change a sentence from the present continuous tense to the present perfect tense, you replace 'am/is/are' + verb+-ing with 'have/has' + the past participle of the verb."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "When changing from future perfect to future continuous, we always keep the '-ing' ending on the verb. ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "When changing from the future perfect tense to the future continuous tense, the main verb keeps the -ing ending."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Change the sentence from past perfect to past continuous:<br>  We had completed the task before lunch.",
+        "options": [
+            "We were completing the task before lunch.",
+            "We are completing the task before lunch.",
+            "We have completed the task before lunch.",
+            "We had been completing the task before lunch."
+        ],
+        "correct": 0,
+        "explanation": "The past continuous tense is formed with 'was/were' + (verb)ing. 'We had completed' changes to 'We were completing,' indicating an ongoing action at a specific time in the past."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which is the correct change from continuous to perfect continuous in the past tense?",
+        "options": [
+            "Was sleeping → Had slept",
+            "Was sleeping → Had been sleeping",
+            "Was sleeping → Has been sleeping",
+            "Was sleeping → Had been slept"
+        ],
+        "correct": 1,
+        "explanation": "To change a sentence from the past continuous tense to the past perfect continuous tense, you replace 'was/were' + verb+-ing with 'had been' + verb+-ing."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "In the sentence 'They will have finished,' to change it to future continuous, it becomes 'They will be finishing.'",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "The future perfect tense 'will have finished' indicates that an action will be completed by a certain point in the future. The future continuous tense 'will be finishing' indicates that the action will be ongoing at a certain point in the future."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Change the sentence from present perfect to present continuous: <br> She has finished her homework.",
+        "options": [
+            "She is finishing her homework.",
+            "She was finishing her homework.",
+            "She finishes her homework.",
+            "She had finished her homework."
+        ],
+        "correct": 0,
+        "explanation": "The present continuous tense is formed with 'is/am/are' + (verb)ing. 'She has finished' changes to 'She is finishing,' showing the action is currently in progress."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which is the correct change from perfect to continuous in the past tense?",
+        "options": [
+            "Had sung → Will be singing",
+            "Had sung → Is singing",
+            "Had sung → Was/Were singing",
+            "Had sung → Has been singing"
+        ],
+        "correct": 2,
+        "explanation": "To change a sentence from the past perfect tense to the past continuous tense, you replace 'had' + past participle with 'was/were' + verb+-ing."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "When changing from present perfect to present continuous, we always use 'are' as the helping verb.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "When changing from present perfect to present continuous, the helping verb depends on the subject. For singular subjects (e.g., 'he,' 'she,' 'it'), we use 'is,' while 'are' is used for plural subjects or 'you'."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Change the sentence from future perfect to future continuous:<br>  They will have built the new house by next month.",
+        "options": [
+            "They will be building the new house by next month.",
+            "They are building the new house by next month.",
+            "They will build the new house by next month.",
+            "They will have been building the new house by next month."
+        ],
+        "correct": 0,
+        "explanation": "Future continuous tense is formed with 'will be' + verb-ing. 'They will have built' changes to 'They will be building,' indicating an ongoing action at a future time."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which is the correct change from continuous to perfect continuous in the present tense?",
+        "options": [
+            "Is dancing → Have/Has been dancing",
+            "Is dancing → Had been dancing",
+            "Is dancing → Will have been dancing",
+            "Is dancing → Have been danced"
+        ],
+        "correct": 0,
+        "explanation": "To change from present continuous to present perfect continuous, replace 'is/are' + verb-ing with 'has/have been' + verb-ing, depending on the subject."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Change the sentence from past continuous to past perfect continuous: <br> I was reading the book all night.",
+        "options": [
+            "I had read the book all night.",
+            "I have been reading the book all night.",
+            "I had been reading the book all night.",
+            "I am reading the book all night."
+        ],
+        "correct": 2,
+        "explanation": "Past perfect continuous is formed with 'had been' + verb-ing. 'I was reading' changes to 'I had been reading,' showing the action continued until another past event."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Fill in the blank:<br>  To change 'They have worked' to present continuous, it becomes 'They _____ working.'",
+        "options": [
+            "were",
+            "are",
+            "was"
+        ],
+        "correct": 1,
+        "explanation": "The present continuous form uses 'are' + verb-ing for plural subjects."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Which is the correct change from continuous to perfect in the future tense?",
+        "options": [
+            "Will be playing → Will have played",
+            "Will be playing → Had played",
+            "Will be playing → Has played",
+            "Will be playing → Have played"
+        ],
+        "correct": 0,
+        "explanation": "To change from future continuous to future perfect, replace 'will be' + verb-ing with 'will have' + the past participle."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Fill in the blank:<br>  To change 'had been swimming' to past continuous, it becomes '_____ swimming.'",
+        "options": [
+            "is",
+            "was/were",
+            "will"
+        ],
+        "correct": 1,
+        "explanation": "Past continuous uses 'was' or 'were' + verb-ing."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Which is the correct change from perfect to continuous in the future tense?",
+        "options": [
+            "Will have cooked → Will be cooking",
+            "Will have cooked → Was cooking",
+            "Will have cooked → Is cooking",
+            "Will have cooked → Has been cooking"
+        ],
+        "correct": 0,
+        "explanation": "To change from future perfect to future continuous, change 'will have' to 'will be' and add '-ing' to the verb."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "In the sentence 'She has been studying,' to change it to present continuous, it becomes 'She is studying.' ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "To change 'She has been studying' (present perfect continuous) to present continuous, it becomes 'She is studying.'"
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Change the sentence from present continuous to present perfect continuous:<br>  He is playing the guitar for hours.",
+        "options": [
+            "He has played the guitar for hours.",
+            "He has been playing the guitar for hours.",
+            "He is played the guitar for hours.",
+            "He had been playing the guitar for hours."
+        ],
+        "correct": 1,
+        "explanation": "Present perfect continuous is formed with 'have/has been' + verb-ing. 'He is playing' changes to 'He has been playing,' showing an action that started in the past and continues to the present."
+    }
+]
